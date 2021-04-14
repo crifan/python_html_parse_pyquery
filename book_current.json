@@ -1,0 +1,22 @@
+{
+  "title": "HTML解析库Python版jQuery：PyQuery",
+  "description": "介绍HTML解析领域的Python版的jQuery：PyQuery。先对PyQuery概述，再介绍常见的基本操作，包括如何获取元素的文本值，如何获取带子元素的元素的文本值；获取元素的属性，如何用CSS选择器去选择定位查找元素；对比了find和items的返回结果；整理了CSS选择器的基本语法；给出了具体的实际例子，比如用PySpider抓取汽车之家的品牌和车型车系数据中如何使用PyQuery。",
+  "pluginsConfig": {
+    "autocover": {
+      "title": "Gitbook演示"
+    },
+    "github-buttons": {
+      "buttons": [
+        {
+          "repo": "python_html_parse_pyquery"
+        }
+      ]
+    },
+    "sitemap-general": {
+      "prefix": "https://book.crifan.com/gitbook/python_html_parse_pyquery/website/"
+    },
+    "toolbar-button": {
+      "url": "http://book.crifan.com/books/python_html_parse_pyquery/pdf/python_html_parse_pyquery.pdf"
+    }
+  }
+}
